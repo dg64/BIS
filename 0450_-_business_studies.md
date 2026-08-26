@@ -1,6 +1,6 @@
 # 0450 - Business Studies
 
-## Unit 1 - Understading business activity
+## Unit 1 - Understanding business activity
 
     This section introduces the underlying ideas and concepts of business and includes the purpose and
     nature of business activity and how businesses can be classified. Enterprise and entrepreneurs, and why
@@ -45,7 +45,7 @@
     - how appropriate each of these forms is in different circumstances
     - business organisations in the public sector
 
-### Chapter 5 - Business objectives and stakeholder objectivek
+### Chapter 5 - Business objectives and stakeholder objectives
 
     - the need for and importance of business objectives
     - about different business objectives
@@ -289,7 +289,7 @@
     - ethical issues a business might face; conflicts between profits and ethics
     - how business might react and respond to ethical issues, for example, child labour
 
-### Chapter 29 - Business and the interntional economy
+### Chapter 29 - Business and the international economy
 
     - the concept of globalisation and reasons for it
     - the opportunities and threats of globalisation for businesses 
