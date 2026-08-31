@@ -14,6 +14,8 @@ Create a google doc with a multiple choice quiz of 15 questions about A LEVEL Ec
  
 Create a google doc with a multiple choice quiz of 15 questions about IGCSE Business with the following topics: primary sectory, secondary sector, tertiary sector, change in sector importance, mixed economy, command economy, public sector, private sector, transition from one economic sector to another one, de-industrialization, developing economy, developed economy,factors of production, added value, specialisation
 
+Create a multiple choice quiz of 15 questions about A level business with the following topics: economic problem, opportunity cost, added value, enterprise, entrepreneur, business plan, factors of production, reasons for a business to fail, barriers to entrepreneurship, scarcity, intrapreneur, startup business, capital, land, labour
+
 convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
 ~
 
