@@ -12,6 +12,8 @@ Create a multiple choice quiz of 15 questions about IGCSE business with the foll
 
 Create a google doc with a multiple choice quiz of 15 questions about A LEVEL Economics with the following topics: added value, factors of production, scarcity, opportunity cost, economic problem, unlimited wants, land, labour, capital, market equilibrium, allocation of resources, ceteri paribus
  
+Create a google doc with a multiple choice quiz of 15 questions about IGCSE Business with the following topics: primary sectory, secondary sector, tertiary sector, change in sector importance, mixed economy, command economy, public sector, private sector, transition from one economic sector to another one, de-industrialization, developing economy, developed economy,factors of production, added value, specialisation
+
 convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
 ~
 
