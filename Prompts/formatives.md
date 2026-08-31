@@ -16,6 +16,11 @@ Create a google doc with a multiple choice quiz of 15 questions about IGCSE Busi
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: economic problem, opportunity cost, added value, enterprise, entrepreneur, business plan, factors of production, reasons for a business to fail, barriers to entrepreneurship, scarcity, intrapreneur, startup business, capital, land, labour
 
+Create a multiple choice quiz of 15 questions about A level business with the following topics:  HRM role, workforce audit, workforce planning labour turnover, absenteeism, recruitment, job description, job advertisement, curriculum vitae, internal recruitment, external recruitment, employment contract, redundancy, dismissal, on-the-job training
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: motivation, Maslow, Taylor, Herzberg, McClelland, Vroom, financial motivators, non-financial motivators, performance-related pay, bonus, fringe benefits, profit sharing, job enrichment, training, promotion
+
+
 convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
 ~
 
