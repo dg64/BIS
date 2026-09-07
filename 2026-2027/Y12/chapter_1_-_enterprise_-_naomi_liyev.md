@@ -33,7 +33,11 @@ Question b              6/6
 Question c              0/8
                         No answer
 
-Question d
-
-Case Study 2
+Question d              6/12
+                        The limitation of the business plan is that the plan is not static, it needs to be
+                        constantly updated and revised; in the specific case; Wesley did not update the cash
+                        flow statement and did not keep track of the payments; but this is not a fault of the
+                        business plan.
+       
+Total Score             38/60 63% Grade C
 
