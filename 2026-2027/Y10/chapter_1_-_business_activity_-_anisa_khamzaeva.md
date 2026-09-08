@@ -38,6 +38,9 @@ Question d     0/6
 
 Question e     0/6
                No answer
+               It is clear that you came completely unprepared. 
+               Either you did not study or you did not listen to a word I said during the
+               lesson. I question the reason of your presence in my class.
 
 Total Score    4/40 10% Grade U
 
