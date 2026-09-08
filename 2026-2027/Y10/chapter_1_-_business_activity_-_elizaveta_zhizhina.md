@@ -20,18 +20,32 @@ Question d     3/6
                place
 
 Question e     0/6
+               You did not answer the question. The problem for Gowri is to understand
+               which clothes her customers will buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
-Question a     /2
+Question a     0/2
+               price - cost of materials bought in
 
-Question b     /2
+Question b     0/2
+               Buying another piece of equipment in place of the owen is an opportunity
+               cost
 
-Question c     /4
+Question c     0/4
+               workers will not et bored
+               one workers can replace the others in case of absence
 
-Question d     /6
+Question d     0/6
+               What about the customers that already complain about the high price?
+               Choose cheaper ingredients
+               Use a package that gives customer the impression that the higher price
+               is justified
 
-Question e     /6
+Question e     3/6
+               What about Mohammed?
+               You need to elaborate more for a question that is worth 6 points.
 
-Total Score    /40 % Grade
+Total Score    12/40 30% Grade F
 
