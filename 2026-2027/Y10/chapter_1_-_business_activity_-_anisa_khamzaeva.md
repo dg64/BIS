@@ -17,7 +17,10 @@ Question d     0/6
                workers will become skilled and more efficient, but if one of them
                is now showing up at work, he can not be replaced
 
-Question e     /6
+Question e     0/6
+               You did not answer the question. The problem for Gowri is to understand
+               which clothes her customers will buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
