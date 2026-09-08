@@ -18,20 +18,27 @@ Question d     0/6
                Each worker will become export and more efficient at doing one single task
                If one worker is absent, the others can not take his place
 
-Question e     /6
+Question e     0/6
+               You did not answer the question. The problem for Gowri is to understand
+               which clothes her customers will buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
 Question a     0/2
                price - cost of materials bought in
 
-Question b     /2
+Question b     0/2
+               No answer
 
-Question c     /4
+Question c     0/4
+               No answer
 
-Question d     /6
+Question d     0/6
+               No answer
 
-Question e     /6
+Question e     0/6
+               No answer
 
 Total Score    /40 % Grade
 
