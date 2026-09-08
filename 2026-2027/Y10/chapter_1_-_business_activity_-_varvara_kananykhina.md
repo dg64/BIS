@@ -13,21 +13,32 @@ Question b     2/2
                machine
 
 Question c     0/4
-               You need to revise the opportunity cost
+                Which design to use and which fabric to use
+                You need to revise the opportunity cost
 
-Question d     /6
+Question d     0/6
+               You need to revise specialisation
+               workers will become skilled and more efficient, but if one of them
+               is now showing up at work, he can not be replaced
 
-Question e     /6
+Question e     0/6
+               You did not answer the question. The problem for Gowri is to understand
+               which clothes her customers will buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
-Question a     /2
+Question a     0/2
+               Added value is equal to price - cost of the materials bought in
 
-Question b     /2
+Question b     0/2
+               Revise opportunity cost
 
-Question c     /4
+Question c     0/4
+               They can help each other, and if one is absent, the bakery does not stop
 
-Question d     /6
+Question d     0/6
+               Revise added value
 
 Question e     /6
 
