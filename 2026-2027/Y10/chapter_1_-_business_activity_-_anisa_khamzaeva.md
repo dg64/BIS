@@ -14,6 +14,8 @@ Question c     2/4
 
 Question d     0/6
                Revise specialisation
+               workers will become skilled and more efficient, but if one of them
+               is now showing up at work, he can not be replaced
 
 Question e     /6
 
