@@ -19,18 +19,25 @@ Question d     3/6
                take his place
 
 Question e     0/6
+               You did not answer the question. The problem for Gowri is to understand
+               which clothes her customers will buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
-Question a     /2
+Question a     2/2
 
-Question b     /2
+Question b     2/2
 
-Question c     /4
+Question c     2/4
+               I accept the second part of your answer. 
+               The other benefit is that each worker can substitute the others, if needed
 
-Question d     /6
+Question d     6/6
+               Take care to specify that the different package must gives customer a
+               feeling that the higher prices is justified
 
-Question e     /6
+Question e     6/6
 
-Total Score    /40 % Grade
+Total Score    33/40 83% Grade A
 
