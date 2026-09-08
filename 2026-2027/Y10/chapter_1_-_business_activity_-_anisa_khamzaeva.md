@@ -24,15 +24,20 @@ Question e     0/6
 
 Case study 2
 
-Question a     /2
+Question a     0/2
+               Added value is equal to price - cost of the materials bought in
 
-Question b     /2
+Question b     0/2
+               No answer
 
-Question c     /4
+Question c     0/4
+               No answer
 
-Question d     /6
+Question d     0/6
+               You need to revise added value
 
-Question e     /6
+Question e     0/6
+               No answer
 
-Total Score    /40 % Grade
+Total Score    4/40 10% Grade U
 
