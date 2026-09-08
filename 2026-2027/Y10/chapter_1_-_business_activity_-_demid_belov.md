@@ -14,24 +14,34 @@ Question b     0/2
 Question c     0/4
                No answer.
 
-Question d     0/6
+Question d     6/6
+
+Question e     0/6
                You did not answer the question. The problem for Gowri is to understand
                which clothes her customers will buy for sure, in which size and quantity.
                It is unlikely that Gowri can make such a guess from the beginning
 
-Question e     /6
-
 Case study 2
 
 Question a     0/2
+               Added value is equal to price - cost of the materials bought in
 
-Question b     /2
+Question b     2/2
+               Investing in a owen for baking does not mean loosing money.
+               I will accept such an answer for this time only
 
-Question c     /4
+Question c     4/4
 
-Question d     /6
+Question d     3/6
+               I accept the first part of your answer.
+               Another possible way could be present his products in a fashion
+               that justifies a higher price
 
-Question e     /6
+Question e     3/6
+               An entrepreneur doesn't take care of his business during free time. 
+               Also, a bakery sells to end consumers; there are no contracts for
+               selling to other shops.
+               You need to improve your command of english language.
 
-Total Score    /40 % Grade
+Total Score    18/40 45% Grade E
 
