@@ -19,18 +19,26 @@ Question c     2/4
 Question d     6/6
 
 Question e     4/6
+               The problem for Gowri is to understand which clothes her customers will 
+               buy for sure, in which size and quantity.
+               It is unlikely that Gowri can make such a guess from the beginning
 
 Case study 2
 
-Question a     /2
+Question a     1/2
+               The formula of added value is correct; the description isn't.
+               The added value is the difference between the price and the cost of the
+               materials bought in
 
-Question b     /2
+Question b     2/2
 
-Question c     /4
+Question c     4/4
+               Well answered
 
-Question d     /6
+Question d     6/6
 
-Question e     /6
+Question e     6/6
+               I accept your perspective, however, an entrepreneur needs to trust his staff.
 
-Total Score    /40 % Grade
+Total Score    35/40 88% Grade A
 
