@@ -40,7 +40,13 @@ Question c     0/4
 Question d     0/6
                Revise added value
 
-Question e     /6
+Question e     0/6
+               You did not answer the question. Mohammed can afford to let his workers taking
+               care of the baking as they are expert. He can take care of his customers and 
+               focus on the business growth
+               It is clear that you came completely unprepared. 
+               Either you did not study or you did not listen to a word I said during the
+               lesson. I question the reason of your presence in my class.
 
-Total Score    /40 % Grade
+Total Score    2/40 5% Grade U
 
