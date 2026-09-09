@@ -45,6 +45,6 @@ Question e     3/6
                 Mohammed can take care of is customers as his workers are perfectly able to 
                 do their jobs.
 
-Total Score    9/40 253 Grade G
+Total Score    9/40 23% Grade G
 
 
