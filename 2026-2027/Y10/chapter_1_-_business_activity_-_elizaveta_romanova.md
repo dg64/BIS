@@ -7,8 +7,7 @@ Question a     0/2
                and creates an output that is meant to satisfy a customer need for a profit
 
 Question b     0/2
-               I grant you the full score this time. When the case study is referenced,
-               you must give an answer in context. In this specific case, for Gowri
+               Some examples:
                Labour means someone that stitches the clothes, and capital means a sewing
                machine
 
@@ -22,6 +21,7 @@ Question d     0/6
                 If one worker is absent, the others can not take his place
 
 Question e     6/6
+                You need to elaborate more for 6 points
 
 Case study 2
 
@@ -29,19 +29,17 @@ Question a     0/2
                 Revise added value
 
 Question b     0/2
-                No answer
+                Revise opportunity cost
 
 Question c     0/4
-                No answer
+                Making luxury pastries will increase the cost, and as a consequence,
+                will decrease the added value
 
 Question d     0/6
                 No answer
 
 Question e     0/6
-                You came unprepared for the summative assessment.
+                I can not understand your answer. You definetly need to improve your English.
+                You came unprepared for the summative assessment. I question your permanence in this class.
 
-Total Score    8/40 20% Grade G
-
-
-
-
+Total Score    6/40 15% Grade U
