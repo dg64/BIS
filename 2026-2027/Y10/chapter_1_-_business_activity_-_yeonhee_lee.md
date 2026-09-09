@@ -7,38 +7,39 @@ Question a     2/2
                and creates an output that is meant to satisfy a customer need for a profit
 
 Question b     2/2
+               I grant you the full score this time. When the case study is referenced,
+               you must give an answer in context. In this specific case, for Gowri
+               Labour means someone that stitches the clothes, and capital means a sewing
+               machine
 
 Question c     0/4
+                The question is in the context of Gowri's business.
                 A piece of equipment or different fabric,
 
-Question d     0/6
-                I accept the second part of your answer
-                Workers will be skilled and faster at doing only one task
+Question d     6/6
 
 Question e     6/6
                 You need to elaborate more for a question that is worth 6 points
 
 Case study 2
 
-Question a     1/2
-                It is the other way around
+Question a     0/2
+                Revise added value
                 added value = price - cost of materials bought in
 
 Question b     0/2
                 Revise opportunity cost
                 Another type of equipment
 
-Question c     2/4
-                I accept the second part of your answer
-                Workers can rotate and not get bored
+Question c     4/4
 
 Question d     3/6
-                You provided only one out of the two options requested
-                Use cheaper ingredients
+                I accept only the first part of your answer.
+                You propose to increse the price, but customers are already complaining about the
+                high price. How can Mohammed let customers acknowledge an increased price?
 
-Question e     0/6
-                No answer
+Question e     6/6
 
-Total Score    14/40 35% Grade F
+Total Score    29/40 73$% Grade B
 
 
