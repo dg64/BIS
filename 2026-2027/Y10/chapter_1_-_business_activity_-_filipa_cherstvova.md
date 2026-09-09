@@ -9,7 +9,7 @@ Question a     2/2
 Question b     2/2
 
 Question c     0/4
-                A piece of eqipmente or different fabric,
+                A piece of equipment or different fabric,
 
 Question d     0/6
                 Revise specialization
