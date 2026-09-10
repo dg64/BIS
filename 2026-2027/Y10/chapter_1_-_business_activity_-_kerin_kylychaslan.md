@@ -1,4 +1,4 @@
-# Chapter 1 - Business Activity - Kerin Kylychaslan
+# Chapter 1 - Business Activity - Kerim Kylychaslan
 
 Case study 1
 
