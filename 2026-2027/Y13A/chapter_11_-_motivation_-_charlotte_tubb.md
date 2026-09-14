@@ -1,10 +1,13 @@
-# Chapter 11 - Motivation - Aleksandra Vorontsova
+# Chapter 11 - Motivation - Charlotte Tubb
 
 Case Study 1
 
 Question a
 
                 0       1/1
+                        the question was about the benefit of time wage, not about the
+                        description. One possible benefitis that it is easy to calculate
+                        and allows for different rates
 
                 2       3/3
 
@@ -20,5 +23,4 @@ Question d              12/12
 Total Score             30/30 100% Grade A*
 
 
-# Chapter 11 - Motivation - Charlotte Tubb
 
