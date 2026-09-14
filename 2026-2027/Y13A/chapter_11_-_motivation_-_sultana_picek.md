@@ -10,16 +10,14 @@ Question a
 
 Question b              6/6
 
-Question c              8/8
-                        I accept the first part of your answer. I do not really understand the link between
-                        a marketing research and the motivation of the employees. Other forms of job enrichment are
-                        job empowerment, or training.
+Question c              4/8
+                        You are confusing the need for Affiliation with the need for Achievement.
 
 Question d              6/12
-                        Commission is not an appropriate payment schema as the employees are not in sales; they assemble
-                        products so a PRP is for sure a more appropriate system, altough it requires a frequent setting
-                        and monitoring of achivements
+                        Your answer is theoretical; you needed to explicitly mention the company.
+                        A PRP would be a suitable form of payment; together with small bonuses (coupons,
+                        prepaid cards)
 
-Total Score             21/30 100% Grade B
+Total Score             19/30 100% Grade C
 
 
