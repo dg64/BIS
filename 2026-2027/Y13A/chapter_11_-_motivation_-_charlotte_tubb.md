@@ -11,16 +11,22 @@ Question a
 
                 2       3/3
 
-Question b              6/6
+Question b              3/6
+                        Employees are not criticised; this is explicitly stated in the text.
+                        The threat of redundancy and the reduction in salary are reasons good enough
+                        for demotivation
 
 Question c              8/8
-                        You must be more concise, otherwise you are going to be in trouble during the exams.
+                        I accept the first part of your answer. I do not really understand the link between
+                        a marketing research and the motivation of the employees. Other forms of job enrichment are
+                        job empowerment, or training.
 
-Question d              12/12
-                        Same as above.
-                        The PRP can compensate the %5 reduction in salary and lead to even higher salaries
+Question d              6/12
+                        Commission is not an appropriate payment schema as the employees are not in sales; they assemble
+                        products so a PRP is for sure a more appropriate system, altough it requires a frequent setting
+                        and monitoring of achivements
 
-Total Score             30/30 100% Grade A*
+Total Score             21/30 100% Grade B
 
 
 
