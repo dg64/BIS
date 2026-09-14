@@ -4,7 +4,7 @@ Case Study 1
 
 Question a
 
-                0       1/1
+                1       0/1
                         the question was about the benefit of time wage, not about the
                         description. One possible benefitis that it is easy to calculate
                         and allows for different rates
@@ -16,7 +16,7 @@ Question b              3/6
                         The threat of redundancy and the reduction in salary are reasons good enough
                         for demotivation
 
-Question c              8/8
+Question c              4/8
                         I accept the first part of your answer. I do not really understand the link between
                         a marketing research and the motivation of the employees. Other forms of job enrichment are
                         job empowerment, or training.
@@ -26,7 +26,7 @@ Question d              6/12
                         products so a PRP is for sure a more appropriate system, altough it requires a frequent setting
                         and monitoring of achivements
 
-Total Score             21/30 100% Grade B
+Total Score             16/30 100% Grade D
 
 
 
