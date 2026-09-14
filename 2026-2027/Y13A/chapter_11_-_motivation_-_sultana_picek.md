@@ -18,6 +18,6 @@ Question d              6/12
                         A PRP would be a suitable form of payment; together with small bonuses (coupons,
                         prepaid cards)
 
-Total Score             19/30 100% Grade C
+Total Score             19/30 63% Grade C
 
 
