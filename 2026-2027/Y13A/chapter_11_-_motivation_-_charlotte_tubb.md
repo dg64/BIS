@@ -26,7 +26,7 @@ Question d              6/12
                         products so a PRP is for sure a more appropriate system, altough it requires a frequent setting
                         and monitoring of achivements
 
-Total Score             16/30 100% Grade D
+Total Score             16/30 53% Grade D
 
 
 
