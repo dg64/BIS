@@ -7,6 +7,8 @@ Create a multiple choice quiz of 15 questions about IGCSE business with the foll
 
 Create a google doc with a multiple choice quiz of 15 questions about IGCSE Business with the following topics: primary sectory, secondary sector, tertiary sector, change in sector importance, mixed economy, command economy, public sector, private sector, transition from one economic sector to another one, de-industrialization, developing economy, developed economy,factors of production, added value, specialisation
 
+Create an activity for IGCSE business students. The activity should be based on entrepreneurship, business size, business growth, government's support to startups
+
 ### Unit 2
 
 Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: job description, job specification, internal recruitment, external recruitment, induction period, dismissal, redundancy, trade union, on-the-job training, off-the-job training, employment contract, part-time contract, permanent contract, temporary contract, unfair dismissal
