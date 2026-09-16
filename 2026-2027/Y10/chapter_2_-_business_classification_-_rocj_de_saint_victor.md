@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classification - Rocj de Saint Victor
+# Chapter 2 - Business Classification - Roch de Saint Victor
 
 Case study 1
 
