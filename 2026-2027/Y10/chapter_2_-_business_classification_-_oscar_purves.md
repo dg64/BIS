@@ -15,9 +15,9 @@ Question c        4/4
 Question d        3/6
                   I accept the first part of your answer.
                   You need to read carefully the text of the case study
-                  to find your answers. In thi case the second answer was
+                  to find your answers. In this case the second answer was
                   in the last phrase: "Consumer incomes are rapidly rising
-                  in Contry X", meaning that consumers wants a better life
+                  in Country X", meaning that consumers wants a better life
                   and asks for services; more businesses deliver services,
                   less businesses deal with natural resources
 
