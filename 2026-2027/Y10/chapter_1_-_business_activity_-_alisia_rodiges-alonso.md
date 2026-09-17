@@ -1,4 +1,4 @@
-# Chapter 1 - Business Activity - Alisia Rodiges-Alonso
+# Chapter 1 - Business Activity - Alisia Rodriges-Alonso
 
 Case study 1
 
