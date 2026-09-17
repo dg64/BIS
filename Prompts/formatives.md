@@ -33,6 +33,10 @@ Create a multiple choice quiz of 15 questions about A level business with the fo
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: motivation, Maslow, Taylor, Herzberg, McClelland, Vroom, financial motivators, non-financial motivators, performance-related pay, bonus, fringe benefits, profit sharing, job enrichment, training, promotion
 
+create a multiple choice quiz of 15 questions about A level business with the following topics: Theory X and Theory Y, Fayol manager's functions, Mintzberg manager's roles, directors, managers, supervisors, autocratic management, democratic management, laissez-fare management, situational management, paternalistic management, resposibility vs. accountability, motivation, coordination, planning
+
+create a multiple choice quiz of 15 questions about A level business with the following topics: organisational structure definition, organisation by function, organisation by geographical area, organisation by product line, matrix organisation, functional manager vs staff manager, hierarchical structure, delayering, chain of command, span of control, delegation and accountability, control and trust, authority and responsibility, centralization and decentralization, line manager
+
 ## From spreadsheeet to form
 
 convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
