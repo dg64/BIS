@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classificaton - Yunchae Cho
+# Chapter 2 - Business Classification - Yunchae Cho
 
 Case Study 1
 
