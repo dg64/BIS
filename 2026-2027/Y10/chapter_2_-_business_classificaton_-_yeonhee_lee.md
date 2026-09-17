@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classificaton - Yeonhee Lee
+# Chapter 2 - Business Classification - Yeonhee Lee
 
 Case Study 1
 
