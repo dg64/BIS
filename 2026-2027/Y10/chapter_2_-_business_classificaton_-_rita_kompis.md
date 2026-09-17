@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classificaton - Rita Kompis
+# Chapter 2 - Business Classification - Rita Kompis
 
 Case Study 1
 
