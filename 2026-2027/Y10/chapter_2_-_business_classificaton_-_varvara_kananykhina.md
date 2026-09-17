@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classificaton - Varvara Kananykhina
+# Chapter 2 - Business Classification - Varvara Kananykhina
 
 Case Study 1
 
