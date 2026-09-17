@@ -1,4 +1,4 @@
-# Chapter 2 - Business Classificaton - Valeriy Kharaev
+# Chapter 2 - Business Classification - Valeriy Kharaev
 
 Case Study 1
 
