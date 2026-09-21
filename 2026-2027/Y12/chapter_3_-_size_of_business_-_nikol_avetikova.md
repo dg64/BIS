@@ -45,5 +45,7 @@ Question d              10/12
                         After an horizontal takeover, ME can choose to use the gain in costs
                         as an increased profit, as a lower price to customers, as an incentive
                         to the current employers.
+                        This is the same error made by the student seated next to you.
+                        If this happens again, I will be forced to consider both tests failed.
 
 Total Score             49/60  82% Grade A 
