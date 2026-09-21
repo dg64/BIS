@@ -46,7 +46,7 @@ Question d              6/12
                         Nowhere is written that the company is a PLC.
                         Why should suppliers must experience lower job security????
                         This is the same error made by the student seated next to you.
-                        If this happens again, I will be force to consider both tests failed.
+                        If this happens again, I will be forced to consider both tests failed.
 
 Total Score             37/60  62% Grade C 
 
