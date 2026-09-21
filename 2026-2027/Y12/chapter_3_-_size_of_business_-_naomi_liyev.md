@@ -45,8 +45,9 @@ Question c              0/8
 Question d              6/12
                         Nowhere is written that the company is a PLC.
                         Why should suppliers must experience lower job security????
-                        This is the same error made by the student seated next to you.
-                        If this happens again, I will be forced to consider both tests failed.
+                        The conclusion is not really a conclusion; any business decision
+                        has risks of failure. You were expected to express your opinion, using
+                        the analysis to support it
 
 Total Score             37/60  62% Grade C 
 
