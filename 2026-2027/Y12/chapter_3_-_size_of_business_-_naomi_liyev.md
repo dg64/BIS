@@ -26,10 +26,7 @@ Question a
 
                 2       3/3
 
-Question b              0/6
-                        The question was about benefits, not drawback.
-                        Economies of scale.
-                        Increased customer base 
+Question b              6/6
                         Capital is not a cost, but has a cost. Careful with words you
                         do not yet know the meaning of
 
@@ -49,5 +46,5 @@ Question d              6/12
                         has risks of failure. You were expected to express your opinion, using
                         the analysis to support it
 
-Total Score             37/60  62% Grade C 
+Total Score             44/60  62% Grade B 
 
