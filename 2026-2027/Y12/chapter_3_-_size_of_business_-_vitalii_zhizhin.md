@@ -7,6 +7,8 @@ Question a
                 1       1/1
 
                 2       3/3
+                        You described external horizontal growth. Merger or take over
+                        was enough as an aswer.
 
 Question b              6/6
 
@@ -30,11 +32,9 @@ Question a
                 2       3/3
 
 Question b              0/6
-                        The question was about benefits, not drawback.
-                        Economies of scale.
-                        Increased customer base 
-                        Capital is not a cost, but has a cost. Careful with words you
-                        do not yet know the meaning of
+                        Nowhere is written that the company is a PLC
+                        Increased complexity in administration
+                        Lack of knowledge if the company expands in vertically
 
 Question c              0/8
                         Here you missed the point of the question. You were requested
@@ -43,14 +43,10 @@ Question c              0/8
                         for bigger washing machine makers, on the other side is
                         an opportunity to provide know-how and assistance to
                         these bigger competitors
-                        I will accept only competition.
 
-Question d              6/12
-                        Nowhere is written that the company is a PLC.
-                        Why should suppliers must experience lower job security????
-                        This is the same error made by the student seated next to you.
-                        If this happens again, I will be forced to consider both tests failed.
+Question d              0/12
+                        No answer
 
-Total Score             37/60  62% Grade C 
+Total Score             27/60  45% Grade E 
 
 
