@@ -26,7 +26,7 @@ Question b              6/6
 
 Question c              8/8
 
-Question d              1212
+Question d              12/12
 
 Total Score             60/60  100% Grade A* 
 
