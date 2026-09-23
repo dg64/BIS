@@ -8,12 +8,13 @@ Question 2      8/8
 
 Question 3      8/8
 
-Question 4      12/12
+Question 4      8/16
+                Your answer is unbalanced. You need to provide advantages
+                and disadvantages
 
 Case Study 2
 
-Question 1      6/8
-                Not enough for 8 points
+Question 1      8/8
 
 Question 2      6/12
                 Your answer is unbalanced. You need to provide advantages
@@ -23,8 +24,8 @@ Question 3      0/8
                 You need to revise staff managers
 
 Question 4      8/16
-                Unbalanced answer, with no conclusion
+                Unbalanced answer
 
-Total Score     56/84 67% Grade C
+Total Score     54/84 64% Grade C
 
 
