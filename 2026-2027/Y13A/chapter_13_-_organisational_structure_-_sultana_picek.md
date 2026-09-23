@@ -8,7 +8,7 @@ Question 2      8/8
 
 Question 3      8/8
 
-Question 4      12/12
+Question 4      16/16
 
 Case Study 2
 
@@ -25,5 +25,5 @@ Question 3      0/8
 Question 4      8/16
                 Unbalanced answer, with no conclusion
 
-Total Score     56/84 67% Grade C
+Total Score     60/84 71% Grade B
 
