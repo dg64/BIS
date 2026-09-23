@@ -46,5 +46,5 @@ Question d              6/12
                         has risks of failure. You were expected to express your opinion, using
                         the analysis to support it
 
-Total Score             44/60  62% Grade B 
+Total Score             44/60  73% Grade B 
 
