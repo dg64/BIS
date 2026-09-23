@@ -31,4 +31,8 @@ Question 3          6/8
 
 Question 4          16/16
 
+<<<<<<< HEAD
 Total Score         70/84 83% Grade A
+=======
+Total Score         70/80 88% Grade A
+>>>>>>> de1a510 ([nb] Edit: 2026-2027/Y13A/chapter_13_-_organisational_structure_-_kinda_shreyf.md)
