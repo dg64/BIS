@@ -41,6 +41,8 @@ create a multiple choice quiz of 15 questions about A level business with the fo
 
 create a multiple choice quiz of 15 questions about A level business with the following topics: organisational structure definition, organisation by function, organisation by geographical area, organisation by product line, matrix organisation, functional manager vs staff manager, hierarchical structure, delayering, chain of command, span of control, delegation and accountability, control and trust, authority and responsibility, centralization and decentralization, line manager
 
+create a multiple choice quiz of 15 questions aobut A level business with the following topics: written communication, verbal communication, visual communication, electronic communication, formal communication, informal communication, transactional leadership, transformational leadership, "Great Man" theory, Goleman's competencies, emotional intelligence, Power and Influence theory, Contingency theory, Manager vs Leaders, informal leaders
+
 ## From spreadsheeet to form
 
 convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
