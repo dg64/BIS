@@ -43,8 +43,12 @@ create a multiple choice quiz of 15 questions about A level business with the fo
 
 create a multiple choice quiz of 15 questions aobut A level business with the following topics: written communication, verbal communication, visual communication, electronic communication, formal communication, informal communication, transactional leadership, transformational leadership, "Great Man" theory, Goleman's competencies, emotional intelligence, Power and Influence theory, Contingency theory, Manager vs Leaders, informal leaders
 
+### Unit 5
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: working capital, long-term loan, trade credit, debentures, shares, debt factoring, leasing, overdraft, capital expenditure, revenue expenditure, accounts receivable, accounts payable, liquid assets, liabilities 
+
 ## From spreadsheeet to form
 
-convert this test in an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
+convert this test into an excel spreadsheet with questions ordered by column; each column must have the question and underneath, the possible answers
 ~
 
