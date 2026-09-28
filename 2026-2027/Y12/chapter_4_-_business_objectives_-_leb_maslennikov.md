@@ -1,0 +1,53 @@
+# Chapter 4 - Business Objectives - Lev Maslennikov
+
+Case Study 1
+
+Question a
+
+                1           0/1
+                            You were supposed to reference the case study
+
+                2           3/3
+
+Question b
+
+                1           2/2
+
+                2           4/4
+
+Question c                  8/8
+
+Question d                  6/12
+                            Your answer is theoretical.
+                            Objectives need to be smart and strategies need to be put into
+                            action, controlled and revised. In the case of Peugeot they already
+                            failed once in the US market, and they can not affort to repeat the
+                            same mistake; this means that its strategies needs to constantly controlled
+                            and the related objective may need to be readjusted
+
+Case Study 2
+
+Question a
+
+                1           0/1
+                            A mission statement informs the stakeholders about what is the business about
+                            and creates the foundation for the formulation of objectives and strategies
+
+                2           3/3
+
+Question b
+
+                1           2/3
+                            The cost of $30m is the actual one, you did not need to increment it
+
+                2           3/3
+
+Question c                  8/8
+
+Question d                  8/12
+                            Your analysis has only one flow. You did not mention the mission statement
+                            The company is lying to all its stakeholders
+
+Total Score                 47/60 78% Grade B
+
+
