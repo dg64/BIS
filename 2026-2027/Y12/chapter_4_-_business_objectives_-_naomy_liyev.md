@@ -14,7 +14,7 @@ Question b
 
                 2           4/4
 
-Question c                  4/8
+Question c                  8/8
 
 Question d                  6/12
                             Your answer is theoretical.
@@ -45,5 +45,5 @@ Question d                  8/12
                             Your analysis has only one flow. You did not mention the mission statement
                             The company is lying to all its stakeholders
 
-Total Score                 45/60 75% Grade B
+Total Score                 49/60 81% Grade A
 
