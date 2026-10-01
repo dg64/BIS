@@ -11,8 +11,7 @@ Question 1
 
 Question 2
 
-            a           1/3
-                        8.000.000 You missed a zero
+            a           3/3
 
             b           3/3
                         I will grant you the full score, but the usage that you described for
@@ -31,5 +30,5 @@ Question 4              6/12
                         sale of share is a permanent source of capital; the capital invested by the
                         shareholders does not have to be returned back, as in a long-term loan.
 
-Total Score             19/30 63% Grade C
+Total Score             21/30 70% Grade B
 
