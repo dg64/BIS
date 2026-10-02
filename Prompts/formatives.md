@@ -9,6 +9,8 @@ Create a google doc with a multiple choice quiz of 15 questions about IGCSE Busi
 
 Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: organic growth, external growth, horizontal growth, vertical formward growth, vertical backward growth, conglomerate growth, merger, take-over, startup business, entrepreneur, business plan, business failure, economic sectors, public and private sectors, free-market economy
 
+Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: sole trader, partnership, private limited company, public limited company, shares, dividends, limited liability, legal identity, franchising, franchisor, franchisee, joint venture, public corporation, shareholders, board of directors
+
 Create an activity for IGCSE business students. The activity should be based on entrepreneurship, business size, business growth, government's support to startups
 
 ### Unit 2
