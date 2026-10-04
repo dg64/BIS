@@ -1,0 +1,47 @@
+# Chapter 4 - Business Objectives - Sergey Ryzhov
+
+Case Study 1
+
+Question a
+
+                1           1/1
+
+                2           3/3
+
+Question b
+
+                1           2/2
+
+                2           4/4
+
+Question c 8/8
+
+Question d 8/12
+You overlooked the fact that strategies, need to be controlled and
+objectives may be revised; without measuring and controlling, there is no
+way to know if the strategy is leading in the right direction and if
+the objective is still viable
+
+Case Study 2
+
+Question a
+
+                1           1/1
+                            The mission stattement addresses all stakeholders
+
+                2           3/3
+
+Question b
+
+                1           2/3
+                            The cost of $30m is the actual one, you did not need to increment it
+
+                2           3/3
+
+Question c 8/8
+
+Question d 8/12
+Your analysis has only one flow. You did not mention the mission statement
+The company is lying to all its stakeholders
+
+Total Score 51/60 85% Grade A
