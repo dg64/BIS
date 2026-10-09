@@ -45,6 +45,10 @@ create a multiple choice quiz of 15 questions about A level business with the fo
 
 create a multiple choice quiz of 15 questions aobut A level business with the following topics: written communication, verbal communication, visual communication, electronic communication, formal communication, informal communication, transactional leadership, transformational leadership, "Great Man" theory, Goleman's competencies, emotional intelligence, Power and Influence theory, Contingency theory, Manager vs Leaders, informal leaders
 
+### Unit 4
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: Job processing, batch processing, flow processing, mass customization, work in progress, added value, production level, productivity, efficiency, effectiveness, labour intensive operations, capital intensinve operations, labor productivity, cellular manufacturing, waste and scrap
+
 ### Unit 5
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: working capital, long-term loan, trade credit, debentures, shares, debt factoring, leasing, overdraft, capital expenditure, revenue expenditure, accounts receivable, accounts payable, liquid assets, liabilities 
