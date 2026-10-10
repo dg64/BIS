@@ -15,8 +15,6 @@ Question c        4/4
 Question d        6/6
 
 Question e        0/6
-                  Again I read the work branch when I told you times and again
-                  not to do it because id does not apply to franchising.
 
 Case Study 2
 
