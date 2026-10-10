@@ -15,6 +15,7 @@ Question c        4/4
 Question d        6/6
 
 Question e        0/6
+                  Insufficient
 
 Case Study 2
 
