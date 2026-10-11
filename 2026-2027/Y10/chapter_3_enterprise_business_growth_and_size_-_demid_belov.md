@@ -1,4 +1,4 @@
-# Chapter 3 -  Enterprise Business Growth and Size - Demid Belov
+# Chapter 3 - Enterprise Business Growth and Size - Demid Belov
 
 Case Study 1
 
