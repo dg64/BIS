@@ -11,6 +11,8 @@ Create a multiple choice quiz of 15 questions about IGCSE business with the foll
 
 Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: sole trader, partnership, private limited company, public limited company, shares, dividends, limited liability, legal identity, franchising, franchisor, franchisee, joint venture, public corporation, shareholders, board of directors
 
+Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: objectivies, S.M.A.R.T. objectives, continuous justification, survival, increase market share, protect shareholders' interest, growth, social enterprises, stakeholders vs shareholders, pressure groups, local community, government, consumers, compettors, suppliers
+
 Create an activity for IGCSE business students. The activity should be based on entrepreneurship, business size, business growth, government's support to startups
 
 ### Unit 2
@@ -32,6 +34,8 @@ Create a multiple choice quiz of 15 questions about A level business with the fo
 Create a multiple choice quiz of 15 questions about A level business with the following topics: Ansoff Matrix, PEST analysis, Porter's 5 Forces analysis, Blue Ocean strategy, Lewin's Force Field analysis, Decision Tree, SWOT analysis, Scenario planning, Strategy and tactics, Core competencies, Entry barriers to markets, Corporate objectives, Strategic capabilities, Product Divversification, Product Development
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: organic growth, external growth, horizontal growth, veritical formward growth, vertical backward growth, conglomerate growth, merger, take-over, joint venture, strategic alliance, franchise, cooperative, charity, family business, small business
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: Ansoff matrix, market penetration, market development, product development, product diversification, Lewin's force field analysis, Porter's 5 forces model, core competencies, switching cost, barriers to entry a market, bargaining power of customers, bargaining power of suppliers, decision tree, STEEPLE
 
 ### Unit 2
 
