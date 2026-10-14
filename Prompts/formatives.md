@@ -37,6 +37,8 @@ Create a multiple choice quiz of 15 questions about A level business with the fo
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: Ansoff matrix, market penetration, market development, product development, product diversification, Lewin's force field analysis, Porter's 5 forces model, core competencies, switching cost, barriers to entry a market, bargaining power of customers, bargaining power of suppliers, decision tree, STEEPLE
 
+Create a multiple choice quiz of 15 questions about A level business with the following topics: crisis management, contingency planning, golden hour, corporate planning, power culture, project champion, role culture, person culture, task culture, entrepreneurial culture, transformational leadership, change management, risk management, corporate culture, ethical code of conduct
+
 ### Unit 2
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics:  HRM role, workforce audit, workforce planning labour turnover, absenteeism, recruitment, job description, job advertisement, curriculum vitae, internal recruitment, external recruitment, employment contract, redundancy, dismissal, on-the-job training
@@ -52,6 +54,13 @@ create a multiple choice quiz of 15 questions aobut A level business with the fo
 ### Unit 4
 
 Create a multiple choice quiz of 15 questions about A level business with the following topics: Job processing, batch processing, flow processing, mass customization, work in progress, added value, production level, productivity, efficiency, effectiveness, labour intensive operations, capital intensinve operations, labor productivity, cellular manufacturing, waste and scrap
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: Just in Time, Just in Case, work in progress, storage costs, risk of obsolescence, economic order of quantity, re-order quantity, lead time, buffer inventory level, supply chain, maximum inventory level, inventory holding costs, inventory-out costs, inventory turnover, COGS and inventory
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: capacity utilization formula, capacity utilization and fixed costs, short-term excess capacity, capacity shortage, working at full capacity, labour productivity machinery productivity, outsourcing, offshoring, outsourcing and know-how, outsourcing and quality, re-shoring, average cost per unit, setup time, down time
+
+Create a multiple choice quiz of 15 questions about A level business with the following topics: choice of location - quantitative factors, choice of location, qualitative factors, high fixed costs, low labor cost, grants, unemployment rate, technological infrastructure, transportation infrastructure, internal economies of scale, external economies of scale, government, fiscal policy, government attitude towards foreign investment, break-even point, average level of income, free-trade agreements 
+
 
 ### Unit 5
 
