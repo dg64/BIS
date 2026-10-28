@@ -25,10 +25,13 @@ Question 4
                     You correctly mentioned the social media as channel of promotion, but you forgot
                     to link it to the 1.8 index of promotional elasticity of demand.
 
-            b       /8
+            b       8/8
 
-Question 5          /12
+Question 5          12/12
+                    Here you finally compared the turnover rates; you should have also compared the
+                    cost of recruiting opposed to the concerns of some directors about short-term 
+                    cost increase
 
-Total Score         /60 % Grade 
+Total Score         52/60 87% Grade A
 
 
