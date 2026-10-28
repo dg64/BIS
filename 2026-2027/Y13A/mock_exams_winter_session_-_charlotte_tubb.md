@@ -10,20 +10,30 @@ Question 2          8/8
 
 Question 3
 
-            a       /2
+            a       0/2
+                    the 305 goes to the numerator, together with the inventory, while at the numerator
+                    you had to put the trade payables
 
-            b       /4
+            b       0/4
+                    No answer
 
-            c       /10
+            c       5/10
+                    In your analysis you did not include the NPV from the previous question,
+                    thus not providing any qualitative reason for accepting this investment
+                    despite the negative NPV.
+                    The second mistake was to propose the overdraft as a source of finance for that
+                    investment; revenue expenditure and capital expenditure use different sources of
+                    finance.
 
 Question 4
 
-            a       /8
+            a       8/8
 
-            b       /8
+            b       8/8
 
-Question 5          /12
+Question 5          8/12
+                    No mention of stimulus materials. Reduced turnover, reduceed costs of recruiting.
 
-Total Score         /60 % Grade 
+Total Score         45/60 75k% Grade B
 
 
