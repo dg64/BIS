@@ -2,7 +2,7 @@
 
 Question 1          4/8
                     The second point is not a benefit is a disadvantage.    
-                    Strict regulation about single-use packages will increase the cost fro HF
+                    Strict regulation about single-use packages will increase the cost from HF
 
 Question 2          6/8
                     Why you did not mention the HF's level of turnover, compared to the industry's
