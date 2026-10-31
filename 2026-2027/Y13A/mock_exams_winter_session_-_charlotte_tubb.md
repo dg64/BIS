@@ -3,8 +3,8 @@
 Question 1          8/8
 
 Question 2          8/8
-                    The second possible benefit that you mentioned, though not identificated
-                    by its name, is a lower absenteeism. Be more explict in your analysis; I was
+                    The second possible benefit that you mentioned, though not identified
+                    by its name, is a lower absenteeism. Be more explicit in your analysis; I was
                     about to cut 50% of your grades, because your mentioned twice the community,
                     leading me to think that you provided the same reason twice.
 
@@ -32,7 +32,7 @@ Question 4
             b       8/8
 
 Question 5          8/12
-                    No mention of stimulus materials. Reduced turnover, reduceed costs of recruiting.
+                    No mention of stimulus materials. Reduced turnover, reduced costs of recruiting.
 
 Total Score         45/60 75k% Grade B
 
