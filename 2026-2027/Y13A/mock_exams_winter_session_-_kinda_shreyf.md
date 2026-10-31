@@ -21,13 +21,10 @@ Question 3
                     You did not finish the calculation
                     NPV = 2800 - 709.8 - 763.6 - 787.5 = -539.1
 
-            c       6/10
+            c       8/10
                     In your analysis you did not include the NPV from the previous question,
                     thus not providing any qualitative reason for accepting this investment
                     despite the negative NPV.
-                    The second mistake was to propose the overdraft as a source of finance for that
-                    investment; revenue expenditure and capital expenditure use different sources of
-                    finance.
 
 Question 4
 
@@ -39,5 +36,5 @@ Question 5          8/12
                     You lost 4 points because you introduced new information in your conclusion.
                     The conclusion must be based solely on your analysis.
 
-Total Score         46/60 77% Grade B
+Total Score         48/60 77% Grade A
 
