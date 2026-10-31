@@ -26,8 +26,8 @@ Question 3
                   the investment; in this case the NPV was negative.
                   I will not consider the missing reference to the liquidity, since your calculation
                   was also incorrect; however, if you notice the correct calculation above, you
-                  can see that the liquidity is too high, and part of this cash can be used either to
-                  partially finance internally the project or to cover the overdraft.
+                  can see that the liquidity is too high, and part of this cash can be used to
+                  partially finance internally the project 
                   An advanced method of analysis would have been to calculate the current ROCE and 
                   ricalculating it assuming the impact of the long-term loan on the gearing ratio
                   and cutting cost on the operating profit
