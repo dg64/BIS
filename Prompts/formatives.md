@@ -19,6 +19,10 @@ Create an activity for IGCSE business students. The activity should be based on 
 
 Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: job description, job specification, internal recruitment, external recruitment, induction period, dismissal, redundancy, trade union, on-the-job training, off-the-job training, employment contract, part-time contract, permanent contract, temporary contract, unfair dismissal
 
+### Unit 3
+
+Create a multiple choice quiz of 15 questions about IGCSE business with the following topics: market, mass market, niche market, market segment, customer, consumer, brand awareness, customwer loyalty, customer relationship, market research, distribution, promotion, consumer tastes, market share, market leader
+
 ## A Level
 
 ### Unit 1
