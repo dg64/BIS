@@ -45,28 +45,42 @@ Question 2
 
 Question 3
 
-            a           /2
+            a           0/2
+                        No answer
 
-            b           /2
+            b           0/2
+                        No answer
 
-            c           /4
+            c           0/4
+                        No answer
 
-            d           /6
+            d           0/6
+                        Half a line is insufficient for 6 points. 
+                        The requirements were thoroughly explained in class.
 
-            e           /6
+            e           0/6
+                        No answer
 
 
 Question 4
 
-            a           /2
+            a           0/2
+                        Incorrect.
+                        The business is liable up to the capital invested in
 
-            b           /2
+            b           0/2
+                        No answer
 
-            c           /4
+            c           0/4
+                        Incorrect
+                        Increase market share
+                        Higher sales
 
-            d           /6
+            d           0/6
+                        No answer
 
-            e           /6
+            e           0/6
+                        No answer
 
-Total Score             /80 % Grade 
+Total Score             6/80 8% Grade 1 U
 
