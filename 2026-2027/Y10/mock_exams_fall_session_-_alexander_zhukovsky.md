@@ -13,8 +13,8 @@ Question 1
             e           0/6
                         A business that wants to survive does not evaluate
                         the possibility to upgrade to a LTD.
-                        For Maria, trasforming her company in a LTD means getting
-                        rid of unlimited liability and acquire a higer status
+                        For Maria, transforming her company in a LTD means getting
+                        rid of unlimited liability and acquire a higher status
                         as a business
 
 Question 2
@@ -30,14 +30,14 @@ Question 2
 
             d           0/6
                         - The market has no scope for growth
-                        - The owner has as objective profit satisficing
+                        - The owner has as objective profit satisfaction
 
             e           2/6
                         Do not use the word "money"!
                         You did not argument your proposal.
                         Buying more land means:
                         - more production
-                        - chances of higer sales
+                        - chances of higher sales
                         - changes of increasing market share
                         On the other hand, Tom and Sand must consider
                         - the cost for buying the land
