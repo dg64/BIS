@@ -56,8 +56,8 @@ Question 4
 
             e           0/6
                         You have to revise Limited Companies. Both LTD and PLC have
-                        limited liability. A PLC is not mandatory for a businesss to
+                        limited liability. A PLC is not mandatory for a business to
                         become international or multinational.
 
-Total Score             64/80 80% Grade A *
+Total Score             64/80 80% Grade A 8
 
