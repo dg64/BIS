@@ -35,7 +35,7 @@ Question 2
 
             d           0/6
                         - The market has no scope for growth
-                        - The owner has as objective profit satisficing
+                        - The owner has as objective profit satisfaction
 
             e           3/6
                         Here you were expected to provide the disadvantages of your proposal
@@ -61,11 +61,11 @@ Question 3
                         Money ....
                         You described a grant and provided only one of the two options
                         required.
-                        Provision of infrastrucuture for startups
+                        Provision of infrastructure for startups
 
             e           3/6
                         A PLC has profit as a priority; a public sector organisation
-                        has as a priority the provision of a service to all cityzen
+                        has as a priority the provision of a service to all citizen
 
 
 Question 4
@@ -89,7 +89,7 @@ Question 4
                         Is a Private Limited Company closed to the public???
                         How do you explain the direct relationship between being a PLC
                         and having more customers?
-                        Becoming a PLC TSS will have access to others shources of finance
+                        Becoming a PLC TSS will have access to others sources of finance
                         but they will loose control of the company
 
 Total Score             29/80 37% Grade 1 F
