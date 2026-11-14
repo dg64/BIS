@@ -34,7 +34,7 @@ Question 2
 
             d           0/6
                         - The market has no scope for growth
-                        - The owner has as objective profit satisficing
+                        - The owner has as objective profit satisfaction
 
             e           0/6
                         You need to reference the stimulus material.
@@ -66,7 +66,7 @@ Question 3
 
             e           0/6
                         A PLC has profit as a priority; a public sector organisation
-                        has as a priority the provision of a service to all cityzen
+                        has as a priority the provision of a service to all citizen
 
 
 Question 4
