@@ -44,7 +44,7 @@ Question 3
                         The first part of your answer was enough
 
             d           0/6
-                        Incorrect asnwer
+                        Incorrect answer
                         A loan is not a source of income, it is a source of finance.
                         You could suggest grants, training, the provision of infrastructure
                         at affordable costs
