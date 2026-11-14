@@ -29,7 +29,7 @@ Question 2
 
             e           3/6
                         Your answer is unbalanced; you must always present the drawbacks of your
-                        proposals. In this case, the drawbacks are the initial capitail required
+                        proposals. In this case, the drawbacks are the initial capital required
                         to buy the land, and the cost of hiring and paying new workers that work
                         the new bought land
 
@@ -47,9 +47,9 @@ Question 3
                         Provide Grants, infrastructure
 
             e           0/6
-                        Incorrent answer
+                        Incorrect answer
                         A PLC has profit as a priority; a public sector organisation
-                        has as a priority the provision of a service to all cityzen
+                        has as a priority the provision of a service to all citizen
 
 
 Question 4
