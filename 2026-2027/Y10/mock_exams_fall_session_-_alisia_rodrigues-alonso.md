@@ -30,7 +30,7 @@ Question 2
             d           2/6
                         Do not write bullet points for a question worth 6 points.
                         I explained the requirements for these type of questions in
-                        the two lessons pior the test
+                        the two lessons prior the test
 
             e           0/6
                         No answer
