@@ -41,7 +41,7 @@ Question 3
             b           2/2
 
             c           0/4
-                        You did not refeeference the stimulus material
+                        You did not reference the stimulus material
                         The government wants additional, non profitable, routes
                         Shareholders wants high dividends
 
@@ -79,8 +79,8 @@ Question 4
                         Insufficient and incorrect. 
                         You need to revise limited companies.
                         If English language is a problem, you must address this issue as
-                        soon as possible, as extended questions require long answres and not
-                        just simple bulletpoints
+                        soon as possible, as extended questions require long aniswers and not
+                        just simple bullet points
 
 Total Score             40/80 50% Grade D 3
 
