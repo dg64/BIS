@@ -33,7 +33,7 @@ Question 2
 
             d           0/6
                         - The market has no scope for growth
-                        - The owner has as objective profit satisficing
+                        - The owner has as objective profit satisfaction
 
             e           0/6
                         I think I said already many times that I do want to read the
