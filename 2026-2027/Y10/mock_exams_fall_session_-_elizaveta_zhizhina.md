@@ -40,7 +40,7 @@ Question 3
                         Again money ....
 
             d           3/6
-                        The knowledge ot technical term is graded, and nowhere in your
+                        The knowledge of technical term is graded, and nowhere in your
                         answer I am reading those terms. You described, incorrectly also,
                         grants. Governments do not provide supply to startups
 
@@ -69,8 +69,8 @@ Question 4
                         You did not mention the advantages of becoming a PLC.
 
             e           2/6
-                        Same as above. No evalutations of pros and cons.
-                        You definetly need o revise limited companies.
+                        Same as above. No evaluations of pros and cons.
+                        You definitely need o revise limited companies.
 
 Total Score             52/80 65% Grade  C 5
 
