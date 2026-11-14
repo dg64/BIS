@@ -59,7 +59,7 @@ Question 4
                         to the risk of take-over
 
             e           3/6
-                        Unabalanced answer. Where are the drawbacks of a PLC?
+                        Unbalanced answer. Where are the drawbacks of a PLC?
                         High set-up costs
                         Risk of take-over
                         Stricter legal and fiscal obligations
