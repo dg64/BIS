@@ -23,7 +23,7 @@ Question 2
 
             a           2/2
                         I grant you the full score, but be careful with your wording.
-                        There is no assemblation in the primary sector, only farming, phishing
+                        There is no assembling in the primary sector, only farming, phishing
                         and mineral extraction
 
             b           2/2
@@ -81,7 +81,7 @@ Question 4
             e           0/6
                         Where is the relationship between PLC and increased profit?
                         You need to revise the differences between LTD and PLC, particularly
-                        what you gain and what you loose whan you pass from one type of
+                        what you gain and what you loose when you pass from one type of
                         organisation to the other.
 
                         You are improving! Don't give up now.
