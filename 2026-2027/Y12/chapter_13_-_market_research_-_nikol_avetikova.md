@@ -5,7 +5,7 @@ Question 1
                 I           1/1
 
                 II          2/3
-                            Partially incorrect. It is a selection of elements from a population
+                            Partially incorrect. It is a selection of people from a population
                             based on a specific criterion
 
 Question 2
