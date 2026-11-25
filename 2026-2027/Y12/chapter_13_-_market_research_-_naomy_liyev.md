@@ -1,4 +1,4 @@
-# Chapter 13 - MArket Research - Naomy Liyev
+# Chapter 18 - MArket Research - Naomy Liyev
 
 Question 1
 
