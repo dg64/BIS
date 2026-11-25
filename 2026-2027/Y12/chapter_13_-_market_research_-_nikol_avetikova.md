@@ -1,4 +1,4 @@
-# Chapter 13 - MArket Research - Nikol Avetikova
+# Chapter 18 - MArket Research - Nikol Avetikova
 
 Question 1
 
